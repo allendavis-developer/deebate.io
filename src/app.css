@@ -1,2 +1,6 @@
 @import "tailwindcss";
 @plugin "daisyui";
+
+<div class="font-space-mono">
+  <slot />
+</div>
